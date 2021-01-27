@@ -1,6 +1,6 @@
 ### PianoJs
 
-Just written in Basic Javascript to have fun and refresh my CSS and DOM Handling.
+Just written in basic Javascript to have fun and refresh my CSS and DOM Handling.
 
 ## Features
 
@@ -18,3 +18,5 @@ Just written in Basic Javascript to have fun and refresh my CSS and DOM Handling
 ![alt text](piano.gif?raw=true)
 
 ## Demo
+
+https://kunstix.github.io/PianoJs/
